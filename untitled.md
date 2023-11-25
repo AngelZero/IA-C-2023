@@ -1,6 +1,8 @@
 # prueba
 ##### 1
 
-'''
-python 
-'''
+```
+git status
+git add
+git commit
+```
