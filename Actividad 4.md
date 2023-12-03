@@ -56,6 +56,8 @@ Y para un método recursivo, se sigue un proceso similar:
 * Se muestra la cantidad de islas encontradas una vez termine de recorrerse la matriz.
 
 
+## Actividad 2: Programación de la solución
+
 ### Programación del método Iterativo
 
 
