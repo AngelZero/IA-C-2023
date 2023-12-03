@@ -127,7 +127,9 @@ imgHSV = cv.cvtColor(imgRGB, cv.COLOR_RGB2HSV)
 ```
 
 Se define el umbral del color a identificar, en este caso el negro ya que la imagen contiene islas de ese color.
+
 ![Imagen de islas](/images/islas.png)
+
 Después se crea la máscara que servirá para hacer el análisis (aislando el color seleccionado de todo el resto de la imagen), y dos copias, una para trabajar con cada método.
 
 
