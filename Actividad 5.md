@@ -105,11 +105,12 @@ imgRGB = cv.cvtColor(img, cv.COLOR_BGR2RGB) #cambia modelo de color
 imgHSV = cv.cvtColor(imgRGB, cv.COLOR_RGB2HSV)
 ```
 
-Se define el umbral del color a identificar, en este caso el rojo ya que son los elementos a encontrar.
+Se define el umbral del color a identificar, en este caso el rojo ya que son los elementos a encontrar de la siguiente imagen.
+
+![Imagen de islas](/images/act5.png)
 
 _En este caso se usan dos umbrales, debido a que el rojo en el modelo HSV se encuentra en los dos extremos de valores permitidos_
 
-![Imagen de islas](/images/act5.png)
 Después se crea la máscara que servirá para hacer el análisis (aislando el color seleccionado de todo el resto de la imagen), y una copia para usar el método, así como también la imagen resultado que se estará editando conforme se encuentren los elementos. Dicha máscara es la suma de ambas máscaras (una por cada umbral).
 
 
