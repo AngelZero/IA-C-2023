@@ -1,6 +1,6 @@
 # Introducción a la Inteligencia Artificial: Práctica 3, Introspección
 
-## Actividad 1: Solución al problema de los alfiles
+## Actividad: Solución al problema de los alfiles
 
 ### Planteamiento del Problema
 
