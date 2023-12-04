@@ -8,7 +8,7 @@ El juego consiste en pasar las 3 ranas verdes a la derecha y las 3 ranasmarrones
 
 Las ranas pueden saltar a una piedra vacía quetengan delante, o saltar por encima de otra rana si en medio de ambas hay una piedra vacía.
 
-_Para este espacio de estados se obliga a iniciar con las ranas cafés, esto debido a que al poder iniciar con ambos colores el espacio se duplica, y no es necesario ya que es prácticamente lo mismo._
+_Para este espacio de estados se obliga a iniciar con las ranas cafés, esto debido a que al poder iniciar con ambos colores el espacio aumenta, y no es necesario ya que practicamente algunos estados son los mismos pero en "espejo"._
 
 |Estado|C1|C2|C3|V1|V2|V3|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
