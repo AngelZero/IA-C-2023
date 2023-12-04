@@ -81,7 +81,7 @@ La secuencia de percepción fue la siguiente:
 * (V1,V2,V3,C1,_,C2,C3)
 * (V1,V2,V3,_,C1,C2,C3)
 
-Consta de 16 pasos para solucionar el problema
+Consta de 16 estados para solucionar el problema (15 pasos en total)
 
 #### Monjes y Canibales
 Tres misioneros se perdieron explorando una jungla. Separados de suscompañeros, sin alimento y sin radio, solo sabían que para llegar a su destino debían ir siempre hacia adelante.  
