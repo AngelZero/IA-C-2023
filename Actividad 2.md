@@ -1,6 +1,6 @@
 # Introducción a la Inteligencia Artificial: Práctica 2, Tipos de Inteligencia
 
-## Actividad 1: Ensayo sobre la teoría de las inteligencias múltiples según Gardner
+## Actividad: Ensayo sobre la teoría de las inteligencias múltiples según Gardner
 
 ### Diversidad de Inteligencias: Una Exploración en la Teoría de las Inteligencias Múltiples de Howard Gardner
 
